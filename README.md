@@ -1,6 +1,6 @@
 # Hi, I'm Kristi 👋
 
-**Fractional CTO & engineering leader.** I build products, and the teams behind them.
+**Engineering leader & Product builder** I build products, and the teams behind them.
 
 Based in Cyprus 🇨🇾, working internationally. Taking on new projects from December 2026.
 
@@ -14,10 +14,7 @@ Based in Cyprus 🇨🇾, working internationally. Taking on new projects from D
 
 - 🔡 [**Braille Buddy**](https://braille-buddy.krispy2009.workers.dev/): an accessible way to practise the braille alphabet in English and Greek ([code](https://github.com/Krispy2009/braille-buddy))
 - 🌐 [**kristi.cy**](https://www.kristi.cy): my website
-
-## Open source
-
-Small contributions to [Socorro](https://github.com/mozilla-services/socorro) (Mozilla's crash reporting pipeline), [python-escpos](https://github.com/python-escpos/python-escpos) and [mongo-migrate-ts](https://github.com/mycodeself/mongo-migrate-ts).
+- Open source contributions
 
 ## Hands-on with
 
