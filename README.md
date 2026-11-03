@@ -12,7 +12,7 @@ Based in Cyprus 🇨🇾, working internationally. Taking on new projects from D
 
 ## On the side
 
-- 🔡 [**Braille Buddy**](https://braille-buddy.krispy2009.workers.dev/): an accessible way to practise the braille alphabet in English and Greek ([code](https://github.com/Krispy2009/braille-buddy))
+- 🔡 [**Braille Buddy**](https://braille-buddy.krispytech.workers.dev/): an accessible way to practise the braille alphabet in English and Greek ([code](https://github.com/Krispy2009/braille-buddy))
 - 🌐 [**kristi.cy**](https://www.kristi.cy): my website
 - Open source contributions
 
