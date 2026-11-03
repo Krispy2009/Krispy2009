@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kristi 👋
 
-<!--
-**Krispy2009/Krispy2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fractional CTO & engineering leader.** I build products, and the teams behind them.
 
-Here are some ideas to get you started:
+Based in Cyprus 🇨🇾, working internationally. Taking on new projects from December 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- **Fractional CTO:** senior technical leadership for startups that don't need a full-time CTO (yet)
+- **0-to-1 product builds:** from idea to something real people can use, with AI features and agents where they earn their place
+- **Team and delivery reviews:** a fresh pair of eyes on how your team ships
+
+## On the side
+
+- 🔡 [**Braille Buddy**](https://braille-buddy.krispy2009.workers.dev/): an accessible way to practise the braille alphabet in English and Greek ([code](https://github.com/Krispy2009/braille-buddy))
+- 🌐 [**kristi.cy**](https://www.kristi.cy): my website
+
+## Open source
+
+Small contributions to [Socorro](https://github.com/mozilla-services/socorro) (Mozilla's crash reporting pipeline), [python-escpos](https://github.com/python-escpos/python-escpos) and [mongo-migrate-ts](https://github.com/mycodeself/mongo-migrate-ts).
+
+## Hands-on with
+
+Node.js · TypeScript · Python · PostgreSQL · React Native / Expo · AWS · AI agents
+
+## Say hello
+
+[Work with me](https://www.kristi.cy/work-with-me.html) · [LinkedIn](https://www.linkedin.com/in/kristiachilleos/)
