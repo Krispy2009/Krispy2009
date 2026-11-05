@@ -1,14 +1,14 @@
 # Hi, I'm Kristi 👋
 
-**Engineering leader & Product builder** I build products, and the teams behind them.
+**Engineering leader & product builder.** I build products, and the teams behind them.
 
-Based in Cyprus 🇨🇾, working internationally. Taking on new projects from December 2026.
+Based in Cyprus 🇨🇾, working internationally. Open to new roles and contracts from December 2026.
 
-## What I do
+## What I'm looking for
 
-- **Fractional CTO:** senior technical leadership for startups that don't need a full-time CTO (yet)
-- **0-to-1 product builds:** from idea to something real people can use, with AI features and agents where they earn their place
-- **Team and delivery reviews:** a fresh pair of eyes on how your team ships
+- **Senior / lead engineering roles:** hands-on, full-stack and AI-native products, 0-to-1 and early-stage teams
+- **Engineering leadership:** building, hiring and growing teams, delivery and culture
+- **Contract work:** a product, a feature or a team that needs senior hands, with a clean hand-over
 
 ## On the side
 
